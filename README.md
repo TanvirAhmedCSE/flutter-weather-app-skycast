@@ -25,7 +25,7 @@
   <tr>
     <td align="center" width="33%">
       <img src="app screenshots/Screenshot_20260517_113908994.jpg" width="220" style="border-radius:16px" />
-      <br><sub><b>Home — Rainy Night with hourly forecast</b></sub>
+      <br><sub><b>Home — Rainy Night with Hourly Forecast</b></sub>
     </td>
     <td align="center" width="33%">
       <img src="app screenshots/Screenshot_20260517_113938342.jpg" width="220" style="border-radius:16px" />
