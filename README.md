@@ -17,7 +17,7 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Dynamic animated backgrounds** — the entire UI adapts its live background animation to the current weather condition (sunny, rainy, snowy, thunderstorm, foggy, and more)
 - **Glassmorphism design** — frosted-glass cards, subtle borders, and layered transparency for a premium look
@@ -89,7 +89,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -104,7 +104,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 lib/
@@ -126,7 +126,7 @@ lib/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -168,7 +168,7 @@ dependencies:
 
 ---
 
-## 🌍 Supported Weather Conditions
+## Supported Weather Conditions
 
 The animated background and precipitation logic cover all major WeatherAPI condition codes:
 
@@ -192,7 +192,7 @@ The animated background and precipitation logic cover all major WeatherAPI condi
 
 ---
 
-## 🔑 API Details
+## API Details
 
 This app uses the **WeatherAPI** free tier:
 
@@ -203,7 +203,7 @@ This app uses the **WeatherAPI** free tier:
 
 ---
 
-## 📄 License
+## License
 
 ```
 MIT License
